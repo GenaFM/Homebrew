@@ -8,6 +8,9 @@
     (HGB Discord) db
     (HGB Discord) homebrew.json
     (HGB Discord) mercury.nro
+    (HGB Discord) tinfoil.nro
+    (HGB Discord) hbmenu.nro
+    (HGB Discord) reboot_to_payload.nro
     (HGB Discord) mercury.nro.sig
   (HGB Discord) tinfoil
     (HGB Discord) db
@@ -19,6 +22,14 @@
     (HGB Discord) options.json
     (HGB Discord) socket.json
     (HGB Discord) tinfoil.nro
+    (HGB Discord) mercury.nro
+    (HGB Discord) hbmenu.nro
+    (HGB Discord) reboot_to_payload.nro
   (HGB Discord) reboot_to_payload.nro
+  (HGB Discord) hbmenu.nro
 (HGB Discord) hgbShop_forwarder_dark_v3.nsp
 (HGB Discord) hbmenu.nro
+(HGB Discord) mercury.nro
+(HGB Discord) tinfoil.nro
+(HGB Discord) reboot_to_payload.nro
+
