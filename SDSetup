@@ -1,0 +1,67 @@
+SDSetup(9_28_19) -
+-licenses
+-payloads
+	-biskeydump.bin
+	-fusee-primary.bin
+	-gptrestore.bin
+	-hekate_ctcaer_5.0.2.bin
+	-Lockpick_RCM.bin
+	-ReiNX.bin
+-pc
+	-4NXCI
+	-hactool
+	-ns-usbloader
+	-Quark
+	TegraRcmGUI_v2.6_portable
+-readmes
+
+-sd
+	-atmosphere
+		-exefs_patches
+		-hbl_html
+		-kip_patches
+		-titles
+		-BCT
+		-fusee-mtc.bin
+		-fusee-secondary.bin
+		-hbl.nsp
+		-loader
+		-reboot_payload.bin
+		-system_settings
+	-bootloader
+		-payloads
+			-fusee-primary.bin
+		-res
+		-sys
+		-bootlogo
+		-hekate_ipl
+		-patches
+		-patches_template
+		-update.bin
+	-config
+		-sys-clk
+		-sys-ftpd
+	-Edizon
+		-editor
+	-sept	
+		-payload.bin
+		-sept-primary.bin
+		-sept-secondary_00.enc
+		-spet-secondary_01.enc
+	-switch
+		-appstore
+		-EdiZon
+		-gcdumptool
+		-Goldleaf
+		-KosmosToolbox
+		-KosmosUpdater
+		-ldnmitm_config
+		-Lockpick
+		-pnes
+		-psnes
+		-sys-clk-Editor
+		-mgba.nro
+		-tinfoil.nro
+		-vba-next.nro
+		-ZeroTwoXCI.nro
+	hbmenu.nro
