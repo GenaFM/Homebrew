@@ -19,6 +19,11 @@
     (HGB Discord) options.json
     (HGB Discord) socket.json
     (HGB Discord) tinfoil.nro
-  (HGB Discord) reboot_to_payload.nro
+  (HGB Discord) reboot_to_payload.nro //this is not moved because it already appears as intended
+  (HGB Discord) mercury.nro //copied from switch/tinfoil to appear with reboot to payload
+  (HGB Discord) tinfoil.nro //copied from switch/mercury to appear with reboot to payload
+  (HGB Discord) hgbShop_forwarder_dark_v3.nsp //coped from root to appear with reboot to payload
 (HGB Discord) hgbShop_forwarder_dark_v3.nsp
-(HGB Discord) hbmenu.nro
+(HGB Discord) hbmenu.nro //not moved because it already appears as intended
+(HGB Discord) mercury.nro //copied from switch/tinfoil to appear like hbmenu 
+(HGB Discord) tinfoil.nro //copied from switch/tinfoil to appear like hbmenu
